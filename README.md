@@ -1,80 +1,39 @@
-# TRIXX Assets Repository
+# TRIXX Asset Spawner Library
 
-Official asset library for the **TRIXX GTA V Enhanced Mod Menu**.
+Official asset repository containing all map constructs, custom vehicles, and outfits for the **TRIXX Asset Spawner** in GTA V Enhanced.
 
 ---
 
-## 📂 Installation & Where to Place These Files
+## 📂 Installation
 
-All assets must be placed inside your Windows **Documents** folder under the `TRIXX\Assets` directory.
+Clone or extract these folders directly into your Windows **Documents** folder:
 
-### Quick Path:
 ```text
 C:\Users\<YourUsername>\Documents\TRIXX\Assets\
 ```
-*(Or paste `%USERPROFILE%\Documents\TRIXX\Assets` into Windows File Explorer address bar)*
+*(Or paste `%USERPROFILE%\Documents\TRIXX\Assets` into the Windows File Explorer address bar)*
 
 ---
 
-## 🛠️ Step-by-Step Setup
+## 🎮 Asset Spawner Folder Breakdown
 
-1. **Download or Clone this repository**:
-   ```bash
-   git clone https://github.com/asesatsawa/Assets.git "%USERPROFILE%\Documents\TRIXX\Assets"
-   ```
-   *Or download as ZIP from GitHub and extract the folder contents directly into `Documents\TRIXX\Assets\`.*
-
-2. **Verify Folder Hierarchy**:
-   Your folder structure should look like this:
-   ```text
-   Documents/
-   └── TRIXX/
-       ├── Assets/
-       │   ├── branding/
-       │   ├── fonts/
-       │   ├── icons/
-       │   ├── themes/
-       │   ├── vehicle-previews/
-       │   ├── INI Vehicles/
-       │   ├── JSON Maps/
-       │   ├── JSON Outfits/
-       │   ├── JSON Vehicles/
-       │   ├── SpoonerAssets/
-       │   ├── XML Maps/
-       │   ├── XML Outfits/
-       │   ├── XML Vehicles/
-       │   ├── Inter.ttf
-       │   └── README.md
-       └── DLCs/
-           └── Vehicles/
-               └── benze55/
-                   └── dlc.rpf
-   ```
-
----
-
-## 🎮 In-Game Menu Mapping
-
-| Folder | Menu Location | Notes |
+| Folder | Spawner Tab in TRIXX | Contents |
 | :--- | :--- | :--- |
-| `JSON Maps/` | **Spawner / World ➔ JSON Maps** | Custom constructs & stunt tracks (Includes **Inverted Los Santos City**). |
-| `XML Maps/` | **Spawner / World ➔ XML Maps** | Classic Menyoo & Spooner XML maps. |
-| `JSON Vehicles/` | **Vehicles ➔ Saved / JSON Vehicles** | Custom tuned vehicle loadouts. |
-| `XML Vehicles/` | **Vehicles ➔ XML Vehicles** | Menyoo XML custom vehicles. |
-| `INI Vehicles/` | **Vehicles ➔ INI Vehicles** | Classic Menyoo/Trainer INI vehicle builds. |
-| `JSON Outfits/` | **Player / Wardrobe ➔ JSON Outfits** | Custom player outfits & components. |
-| `XML Outfits/` | **Player / Wardrobe ➔ XML Outfits** | Menyoo format saved outfits. |
-| `vehicle-previews/` | **Vehicle Spawner** | Vehicle card thumbnails displayed on hover. |
-| `fonts/`, `Inter.ttf` | **Menu Core** | UI typography and font engine. |
-| `themes/`, `branding/` | **Settings ➔ UI Themes** | Custom menu themes, accents, and branding. |
+| **`JSON Maps`** | **Asset Spawner ➔ JSON Maps** | Custom constructs & stunt maps (Includes **Upside Down / Inverted Los Santos City**). |
+| **`XML Maps`** | **Asset Spawner ➔ XML Maps** | Classic Menyoo and Spooner XML map files. |
+| **`JSON Vehicles`** | **Asset Spawner ➔ JSON Vehicles** | Custom tuned vehicle loadouts and attached constructs. |
+| **`XML Vehicles`** | **Asset Spawner ➔ XML Vehicles** | Menyoo XML custom vehicle builds. |
+| **`INI Vehicles`** | **Asset Spawner ➔ INI Vehicles** | Classic Menyoo/Trainer INI vehicle presets. |
+| **`JSON Outfits`** | **Asset Spawner ➔ JSON Outfits** | Custom player wardrobe and outfit components. |
+| **`XML Outfits`** | **Asset Spawner ➔ XML Outfits** | Menyoo format saved player outfits. |
+| **`SpoonerAssets`** | **Asset Spawner Core** | Animation and attachment metadata. |
 
 ---
 
-## 🚗 Custom DLC Vehicle Packs (Add-Ons)
+## 🚀 Quick Setup Command
 
-For standalone add-on car packs (`.rpf`), place them in:
-```text
-Documents\TRIXX\DLCs\Vehicles\<pack_name>\dlc.rpf
+Open PowerShell and run:
+```powershell
+git clone https://github.com/asesatsawa/Assets.git "$env:USERPROFILE\Documents\TRIXX\Assets"
 ```
-- **Example**: `Documents\TRIXX\DLCs\Vehicles\benze55\dlc.rpf`
-- TRIXX mounts the archive in-memory via RAGE VFS and registers the model in GTA streaming tables automatically without editing `dlclist.xml` or modifying game files.
+Once cloned, all constructs and vehicles are immediately selectable and spawnable inside the TRIXX Asset Spawner in GTA V Enhanced.
