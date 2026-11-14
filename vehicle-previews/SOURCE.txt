@@ -1,0 +1,37 @@
+# GTA V Vehicle Preview Library — Asset Manifest & Source Documentation
+
+This library contains authentic in-game transparent vehicle cutouts formatted for the TRIXX menu vehicle spawner.
+
+## Image Format & Standards
+- Format: 320x180 32-bit RGBA PNG with alpha channel transparency.
+- Bounding: Preserved original vehicle aspect ratio, centered on transparent canvas.
+- Resampling: High-quality Lanczos filter resampling from original high-resolution in-game cutouts.
+- Filename Convention: Exact lowercase GTA V model spawn identifier (e.g. `t20.png`, `oppressor2.png`, `vigilante.png`).
+- Fallback Policy: Zero false fallbacks (no fallback to `adder.png` or wrong vehicle). Missing models render a neutral missing-preview placeholder.
+
+## Asset Sources & Provenance
+
+1. Base Asset Catalog (738 vehicles)
+   - Source: https://github.com/MericcaN41/gta5carimages
+   - Description: Comprehensive library of transparent vehicle cutouts extracted from GTA V base and major DLC updates.
+
+2. DLC & Updated Model Asset Pack (129 vehicles added)
+   - Source A: https://github.com/atoshit/cfx-img-pack
+     Branch: main (Vehicles/* categories)
+     License: Open / Community GTA V Asset Collection
+     Description: Authentic high-resolution in-game cutouts covering Tuners, The Contract, Criminal Enterprises, Los Santos Drug Wars, and Chop Shop updates.
+   - Source B: https://github.com/matthias18771/v-vehicle-images
+     Branch: main (images/*)
+     License: Open / Community FiveM Resource
+     Description: Supplementary transparent in-game vehicle cutouts for expanded GTA Online models.
+   - Source C: https://github.com/SrPeterr/okokvehicle-images
+     Branch: main (vehicles-all/*)
+     License: Open / Community Resource
+     Description: Supplementary catalog reference for GTA V / FiveM vehicle renders.
+
+## Catalog Coverage Summary
+- Spawner Catalog Vehicle Count: 935 models
+- Initial Library: 738 vehicle preview images
+- New Authenticated Cutouts Added: 129 vehicle preview images
+- Total Active Preview Assets: 867 vehicle preview images (92.7% catalog coverage)
+- Neutral Placeholder Vehicles: 68 models (drift-tuned duplicates, emergency police cruisers, and utility trailers where unique standalone retail cutouts are not published)

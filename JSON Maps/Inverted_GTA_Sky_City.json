@@ -1,0 +1,1696 @@
+[
+  {
+    "name": "vb_lod_slod4",
+    "type": "OBJECT",
+    "hash": 1972856407,
+    "position": {
+      "x": 366.617828,
+      "y": -1986.521,
+      "z": 462.472015
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ss1_lod_slod3",
+    "type": "OBJECT",
+    "hash": 2007050028,
+    "position": {
+      "x": 377.559784,
+      "y": -356.634399,
+      "z": 334.505768
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sp1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 334848724,
+    "position": {
+      "x": -747.45874,
+      "y": -1684.29224,
+      "z": 431.476746
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sm_lod_slod3",
+    "type": "OBJECT",
+    "hash": 3881449803,
+    "position": {
+      "x": 770.532349,
+      "y": -1657.28687,
+      "z": 395.479431
+    },
+    "rotation": {
+      "x": 0.000925550936,
+      "y": -179.999237,
+      "z": -42.6442223
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1023.38721,
+      "y": -945.42157,
+      "z": 412.491638
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "po1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2967811882,
+    "position": {
+      "x": -1979.53979,
+      "y": -1776.76929,
+      "z": 421.673035
+    },
+    "rotation": {
+      "x": 0.000915059238,
+      "y": -179.999237,
+      "z": -43.4442062
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "kt1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2568085504,
+    "position": {
+      "x": -129.673691,
+      "y": -1201.08691,
+      "z": 390.487671
+    },
+    "rotation": {
+      "x": 0.000919014448,
+      "y": -179.999237,
+      "z": -43.1442299
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "id1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2044059611,
+    "position": {
+      "x": -1947.64075,
+      "y": -793.829346,
+      "z": 416.4935
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "hw1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 398589620,
+    "position": {
+      "x": -263.747009,
+      "y": 356.164063,
+      "z": 367.519623
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_lod_slod3",
+    "type": "OBJECT",
+    "hash": 4185368029,
+    "position": {
+      "x": -479.305756,
+      "y": -604.028442,
+      "z": 287.499481
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch2_lod2_slod3",
+    "type": "OBJECT",
+    "hash": 3827208494,
+    "position": {
+      "x": 923.241821,
+      "y": 484.396606,
+      "z": 223.523941
+    },
+    "rotation": {
+      "x": 0.000925550936,
+      "y": -179.999237,
+      "z": -42.6442223
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch2_lod_slod3",
+    "type": "OBJECT",
+    "hash": 2950433518,
+    "position": {
+      "x": 1502.25745,
+      "y": -130.527222,
+      "z": 285.512024
+    },
+    "rotation": {
+      "x": 0.000925550936,
+      "y": -179.999237,
+      "z": -42.6442223
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch2_lod3_slod3",
+    "type": "OBJECT",
+    "hash": 841438406,
+    "position": {
+      "x": 69.4251709,
+      "y": 1291.74451,
+      "z": 242.739487
+    },
+    "rotation": {
+      "x": 0.000917698839,
+      "y": -179.999237,
+      "z": -43.2442284
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch3_lod_101114b_slod3",
+    "type": "OBJECT",
+    "hash": 1290592802,
+    "position": {
+      "x": -2066.36865,
+      "y": 381.859741,
+      "z": 323.5177
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch3_lod_11b13_slod3",
+    "type": "OBJECT",
+    "hash": 3100657325,
+    "position": {
+      "x": -2770.53589,
+      "y": -617.261597,
+      "z": 388.496033
+    },
+    "rotation": {
+      "x": 0.000916380377,
+      "y": -179.999237,
+      "z": -43.3442268
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ch3_lod_1414b2_slod3",
+    "type": "OBJECT",
+    "hash": 936194584,
+    "position": {
+      "x": -2629.50806,
+      "y": 678.913696,
+      "z": 350.023041
+    },
+    "rotation": {
+      "x": 0.000912408112,
+      "y": -179.999237,
+      "z": -43.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "vb_lod_slod4",
+    "type": "OBJECT",
+    "hash": 1972856407,
+    "position": {
+      "x": -590.608765,
+      "y": -2338.25537,
+      "z": 462.463409
+    },
+    "rotation": {
+      "x": 0.000766395126,
+      "y": -179.999084,
+      "z": -53.6442261
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 950.598755,
+      "y": -552.829834,
+      "z": 386.502502
+    },
+    "rotation": {
+      "x": 0.000782123534,
+      "y": -179.9991,
+      "z": -52.6442223
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 1187.69421,
+      "y": -1012.70563,
+      "z": 386.493317
+    },
+    "rotation": {
+      "x": 0.00104085624,
+      "y": -179.999405,
+      "z": -32.6442299
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 1765.60168,
+      "y": -1155.96338,
+      "z": 396.49115
+    },
+    "rotation": {
+      "x": -0.000383505161,
+      "y": -179.99884,
+      "z": -112.644211
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 1429.95544,
+      "y": -2001.80103,
+      "z": 396.473175
+    },
+    "rotation": {
+      "x": -0.000383505161,
+      "y": -179.99884,
+      "z": -112.644211
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 703.183716,
+      "y": -2423.46777,
+      "z": 396.46344
+    },
+    "rotation": {
+      "x": -0.0010166195,
+      "y": -179.999359,
+      "z": -152.644196
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -139.849579,
+      "y": -2433.2085,
+      "z": 416.462097
+    },
+    "rotation": {
+      "x": 0.00110795652,
+      "y": 179.999542,
+      "z": 17.3557739
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 123.353271,
+      "y": -902.351135,
+      "z": 406.49411
+    },
+    "rotation": {
+      "x": 0.00104085624,
+      "y": -179.999405,
+      "z": -32.6442299
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -151.069626,
+      "y": -373.870239,
+      "z": 406.504669
+    },
+    "rotation": {
+      "x": 0.00104085624,
+      "y": -179.999405,
+      "z": -32.6442299
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -740.487976,
+      "y": 580.848022,
+      "z": 376.523621
+    },
+    "rotation": {
+      "x": -0.00112453557,
+      "y": 179.999619,
+      "z": 157.355743
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -688.697632,
+      "y": -698.456421,
+      "z": 416.497223
+    },
+    "rotation": {
+      "x": -0.000925551052,
+      "y": 179.999237,
+      "z": 137.355759
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -700.799316,
+      "y": 328.409668,
+      "z": 406.518463
+    },
+    "rotation": {
+      "x": -0.000182405332,
+      "y": -179.998825,
+      "z": -102.644203
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1557.70239,
+      "y": 636.171753,
+      "z": 386.523621
+    },
+    "rotation": {
+      "x": 0.000230142512,
+      "y": -179.998825,
+      "z": -82.6442032
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1311.90039,
+      "y": -289.77713,
+      "z": 386.504822
+    },
+    "rotation": {
+      "x": 0.000230142512,
+      "y": -179.998825,
+      "z": -82.6442032
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1603.28589,
+      "y": -1024.07617,
+      "z": 406.489227
+    },
+    "rotation": {
+      "x": -0.000744990597,
+      "y": -179.999054,
+      "z": -132.644211
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -2040.14709,
+      "y": -850.720337,
+      "z": 406.492218
+    },
+    "rotation": {
+      "x": -0.000744990597,
+      "y": -179.999054,
+      "z": -132.644211
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -236.344147,
+      "y": -1103.89001,
+      "z": 426.489441
+    },
+    "rotation": {
+      "x": -0.000744990597,
+      "y": -179.999054,
+      "z": -132.644211
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 1027.76489,
+      "y": -1605.51489,
+      "z": 396.480835
+    },
+    "rotation": {
+      "x": -0.00117404619,
+      "y": 179.999786,
+      "z": 167.355759
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1409.86072,
+      "y": -1810.89758,
+      "z": 446.473206
+    },
+    "rotation": {
+      "x": -0.000925551052,
+      "y": 179.999237,
+      "z": 137.355759
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": -1225.29626,
+      "y": -44.4209595,
+      "z": 396.51001
+    },
+    "rotation": {
+      "x": -0.000614931807,
+      "y": 179.998978,
+      "z": 117.355774
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": -968.842529,
+      "y": -2497.62256,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76837022e-06,
+      "y": 179.999756,
+      "z": -32.8666687
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": -2038.84253,
+      "y": -1767.62256,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76841615e-06,
+      "y": 179.999756,
+      "z": -62.8666573
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": 311.15744,
+      "y": -2677.62256,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76836703e-06,
+      "y": 179.999756,
+      "z": -2.86666751
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": 1491.15735,
+      "y": -1960.62256,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76833111e-06,
+      "y": 179.999756,
+      "z": 44.1332703
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": 1881.15735,
+      "y": -1080.62256,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76832156e-06,
+      "y": 179.999756,
+      "z": 94.133194
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": -1038.84265,
+      "y": 899.377319,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76831337e-06,
+      "y": 179.999756,
+      "z": 174.133102
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_03_build2top",
+    "type": "OBJECT",
+    "hash": 1993035863,
+    "position": {
+      "x": -811.031494,
+      "y": -1172.354,
+      "z": 72.872467
+    },
+    "rotation": {
+      "x": 8.53773599e-07,
+      "y": -30.000061,
+      "z": -21.0923443
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_03_slod",
+    "type": "OBJECT",
+    "hash": 3549983197,
+    "position": {
+      "x": -925.260742,
+      "y": -1079.10034,
+      "z": 331.716522
+    },
+    "rotation": {
+      "x": 8.53773599e-07,
+      "y": 159.99968,
+      "z": -21.0923462
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_05_build1_h",
+    "type": "OBJECT",
+    "hash": 3451981044,
+    "position": {
+      "x": -676.392334,
+      "y": -1627.20044,
+      "z": 118.09375
+    },
+    "rotation": {
+      "x": 4.268868e-07,
+      "y": -159.999939,
+      "z": -104.674942
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_05_build2_h",
+    "type": "OBJECT",
+    "hash": 3275220391,
+    "position": {
+      "x": 693.304382,
+      "y": -2429.82324,
+      "z": 232.32724
+    },
+    "rotation": {
+      "x": -4.268868e-07,
+      "y": 139.999863,
+      "z": 5.3249836
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_05_damage_slod",
+    "type": "OBJECT",
+    "hash": 2593047933,
+    "position": {
+      "x": 321.805878,
+      "y": -1655.84155,
+      "z": 317.791687
+    },
+    "rotation": {
+      "x": 1.62124561e-05,
+      "y": -135.324829,
+      "z": -4.33473048e-07
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_11_dt1_tower",
+    "type": "OBJECT",
+    "hash": 1831850105,
+    "position": {
+      "x": 1672.02917,
+      "y": -1483.57324,
+      "z": 245.585815
+    },
+    "rotation": {
+      "x": 1.1739387e-06,
+      "y": 129.999756,
+      "z": 178.569992
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1",
+    "type": "OBJECT",
+    "hash": 3307602487,
+    "position": {
+      "x": -1623.76355,
+      "y": -623.735962,
+      "z": 115.710022
+    },
+    "rotation": {
+      "x": -9.99999809,
+      "y": 79.9999619,
+      "z": -13.4376698
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1z",
+    "type": "OBJECT",
+    "hash": 561364943,
+    "position": {
+      "x": -1226.56677,
+      "y": -478.197021,
+      "z": 227.135437
+    },
+    "rotation": {
+      "x": 6.00814237e-05,
+      "y": 156.562073,
+      "z": 179.999893
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "po1_sh1_sunk_slod",
+    "type": "OBJECT",
+    "hash": 2299852374,
+    "position": {
+      "x": -339.498047,
+      "y": -1555.70056,
+      "z": 118.839905
+    },
+    "rotation": {
+      "x": -19.9999962,
+      "y": 29.9999828,
+      "z": 27.1848507
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": 320.742981,
+      "y": -792.283325,
+      "z": 273.080444
+    },
+    "rotation": {
+      "x": -2.57099164e-05,
+      "y": -179.771805,
+      "z": -89.9998093
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "cs1_lod3_terrain_slod3_04",
+    "type": "OBJECT",
+    "hash": 711410982,
+    "position": {
+      "x": -2278.84253,
+      "y": -437.622559,
+      "z": 152.096313
+    },
+    "rotation": {
+      "x": 4.76844207e-06,
+      "y": 179.999756,
+      "z": -112.866554
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_neon_gate4x_04a",
+    "type": "OBJECT",
+    "hash": 3982517692,
+    "position": {
+      "x": -72.1865387,
+      "y": -818.780151,
+      "z": 333.752258
+    },
+    "rotation": {
+      "x": -1.60082351e-07,
+      "y": 89.9999466,
+      "z": -93.0475006
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_neon_gate8x_04a",
+    "type": "OBJECT",
+    "hash": 3656416555,
+    "position": {
+      "x": -73.6357803,
+      "y": -819.783203,
+      "z": 396.197144
+    },
+    "rotation": {
+      "x": -1.90735045e-06,
+      "y": 89.9999466,
+      "z": -0.461696595
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "xm_prop_x17_sub",
+    "type": "OBJECT",
+    "hash": 1723871309,
+    "position": {
+      "x": -1323.03052,
+      "y": -1137.03149,
+      "z": 44.418541
+    },
+    "rotation": {
+      "x": -8.53773599e-07,
+      "y": 30.9999905,
+      "z": -52.9292488
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "prop_temp_carrier",
+    "type": "OBJECT",
+    "hash": 552807189,
+    "position": {
+      "x": -1701.78027,
+      "y": -1577.30811,
+      "z": 112.798126
+    },
+    "rotation": {
+      "x": -4.26886544e-07,
+      "y": -9.53673862e-07,
+      "z": -56.6904221
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sum_prop_dufocore_01a",
+    "type": "OBJECT",
+    "hash": 766526323,
+    "position": {
+      "x": -74.2054977,
+      "y": -818.03125,
+      "z": 343.361481
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -4.33611012
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "prop_temp_carrier",
+    "type": "OBJECT",
+    "hash": 552807189,
+    "position": {
+      "x": 161.664703,
+      "y": -154.992126,
+      "z": 193.717041
+    },
+    "rotation": {
+      "x": -20.0000019,
+      "y": -9.99996853,
+      "z": -23.2576885
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_checkpoint_xs",
+    "type": "OBJECT",
+    "hash": 4110460755,
+    "position": {
+      "x": -313.467468,
+      "y": -1976.51538,
+      "z": 118.118683
+    },
+    "rotation": {
+      "x": -4.26883531e-07,
+      "y": 89.9999466,
+      "z": -38.1301994
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "imp_prop_ship_01a",
+    "type": "OBJECT",
+    "hash": 1241740398,
+    "position": {
+      "x": -313.954437,
+      "y": -1976.71851,
+      "z": 212.52536
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -24.0926704
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": 840.742981,
+      "y": -1792.28333,
+      "z": 273.080444
+    },
+    "rotation": {
+      "x": -2.57466108e-05,
+      "y": -179.771805,
+      "z": -159.99968
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "prop_temp_carrier",
+    "type": "OBJECT",
+    "hash": 552807189,
+    "position": {
+      "x": 897.220947,
+      "y": -998.713074,
+      "z": 165.579681
+    },
+    "rotation": {
+      "x": -20.0000896,
+      "y": -9.99987411,
+      "z": 64.3294373
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": 1380.74292,
+      "y": -832.283325,
+      "z": 273.080444
+    },
+    "rotation": {
+      "x": -2.57832962e-05,
+      "y": -179.771805,
+      "z": -9.99956608
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": -1565.52344,
+      "y": -2546.01025,
+      "z": 135.69371
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": 145.466782
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "gr_prop_damship_01a",
+    "type": "OBJECT",
+    "hash": 3974683782,
+    "position": {
+      "x": -147.701569,
+      "y": -2880.11108,
+      "z": 102.355721
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": -0.0,
+      "z": -179.521805
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_neon_gate8x_04a",
+    "type": "OBJECT",
+    "hash": 3656416555,
+    "position": {
+      "x": -152.120239,
+      "y": -2968.37134,
+      "z": 36.4617615
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -76.9723663
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_neon_gate8x_04a",
+    "type": "OBJECT",
+    "hash": 3656416555,
+    "position": {
+      "x": 307.87973,
+      "y": -3038.37134,
+      "z": 36.4617615
+    },
+    "rotation": {
+      "x": 1.90734727e-06,
+      "y": 89.9999466,
+      "z": -86.9721985
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "ar_prop_ar_neon_gate8x_04a",
+    "type": "OBJECT",
+    "hash": 3656416555,
+    "position": {
+      "x": 307.87973,
+      "y": -3038.37134,
+      "z": 116.461761
+    },
+    "rotation": {
+      "x": 1.90734727e-06,
+      "y": 89.9999466,
+      "z": -86.9721985
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "sc1_lod_slod4",
+    "type": "OBJECT",
+    "hash": 2920384015,
+    "position": {
+      "x": 1290.59875,
+      "y": -2465.82983,
+      "z": 296.502502
+    },
+    "rotation": {
+      "x": 50.0008087,
+      "y": -89.9989624,
+      "z": -45.6441078
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1z",
+    "type": "OBJECT",
+    "hash": 561364943,
+    "position": {
+      "x": -1446.56677,
+      "y": 341.802917,
+      "z": 227.135437
+    },
+    "rotation": {
+      "x": 60.0000648,
+      "y": 146.561966,
+      "z": 179.999893
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": -1225.52344,
+      "y": -1596.01025,
+      "z": 315.693695
+    },
+    "rotation": {
+      "x": -6.51377563e-12,
+      "y": 179.999847,
+      "z": 145.466782
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1",
+    "type": "OBJECT",
+    "hash": 3307602487,
+    "position": {
+      "x": -873.76355,
+      "y": -1473.73596,
+      "z": 155.710022
+    },
+    "rotation": {
+      "x": 40.0000992,
+      "y": 149.999695,
+      "z": 106.562103
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1",
+    "type": "OBJECT",
+    "hash": 3307602487,
+    "position": {
+      "x": 76.2364426,
+      "y": -2273.73584,
+      "z": 155.710022
+    },
+    "rotation": {
+      "x": 70.0001068,
+      "y": 149.999695,
+      "z": 106.562096
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_05_build1_h",
+    "type": "OBJECT",
+    "hash": 3451981044,
+    "position": {
+      "x": -756.392334,
+      "y": -1737.20044,
+      "z": 348.09375
+    },
+    "rotation": {
+      "x": 30.0,
+      "y": -159.999939,
+      "z": -104.674942
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "0x9ae513fc",
+    "type": "OBJECT",
+    "hash": 2598704124,
+    "position": {
+      "x": -395.523438,
+      "y": -1896.01025,
+      "z": 315.693695
+    },
+    "rotation": {
+      "x": -3.25688781e-11,
+      "y": 179.999756,
+      "z": -154.533173
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  },
+  {
+    "name": "dt1_21_build1z",
+    "type": "OBJECT",
+    "hash": 561364943,
+    "position": {
+      "x": 643.433167,
+      "y": -108.197029,
+      "z": 167.135437
+    },
+    "rotation": {
+      "x": 0.000407250016,
+      "y": -73.4376678,
+      "z": -149.999954
+    },
+    "options": {
+      "is_frozen": true,
+      "has_collision": true,
+      "is_visible": true,
+      "is_networked": true,
+      "is_dynamic": false
+    }
+  }
+]
